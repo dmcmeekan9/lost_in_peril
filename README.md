@@ -1,4 +1,4 @@
-#Lost in Peril
+Lost in Peril
 ==================
 ## Tim Mardesen and Dennis McMeekan
 
