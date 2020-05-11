@@ -1,9 +1,8 @@
-Lost in Peril
-==================
+# Lost in Peril
 
 ## Tim Mardesen and Dennis McMeekan
 
-## LibGDX powered to Android and Windows.
+### LibGDX powered to Android and Windows.
 
 This is a game created with the purpose of fulfilling a requirement of a Software Engineering course
 during our times as undergrads at Western Illinois University.
