@@ -1,7 +1,6 @@
-<h1>Lost in Peril
-</h1>
-
-# Tim Mardesen and Dennis McMeekan
+#Lost in Peril
+==================
+## Tim Mardesen and Dennis McMeekan
 
 ## LibGDX powered to Android and Windows.
 
